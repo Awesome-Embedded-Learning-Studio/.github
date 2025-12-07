@@ -32,23 +32,6 @@
 
 ---
 
-## 技术栈 🧰
-
-下面是我们常用 / 计划使用的技术栈：
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-language-blue?logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-modern-blueviolet?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-🐍-informational?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Qt-UI-lightgrey?logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/Embedded--Linux-Linux-lightgrey?logo=linux&logoColor=white" alt="Embedded Linux" />
-  <img src="https://img.shields.io/badge/STM32-MCU-success?logo=arm&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/KiCad-PCB-orange?logo=kicad&logoColor=white" alt="KiCad" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-black?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
----
-
 ## 许可 & 联系方式
 
 - 许可：MIT
