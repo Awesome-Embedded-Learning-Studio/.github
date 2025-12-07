@@ -19,6 +19,10 @@
 > 集群下的所有仓库中将会包含所有学习工作室的嵌入式小玩具的所有开源资料，包含但是不限于代码，硬件PCB设计和相关的教学文档。
 ---
 
+## 我想知道更多核心的细节
+请到[我们的主仓库](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)查看
+> 链接在这里：https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded
+
 ## 目前为止，这个组织都有谁？
 
 - [HNHKHNH](https://github.com/HNHKHNH)：硬件大牛，PCB工程师
