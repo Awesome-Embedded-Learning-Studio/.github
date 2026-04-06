@@ -45,7 +45,7 @@
 | [Project_MakeAMemroyPool](https://github.com/Awesome-Embedded-Learning-Studio/Project_MakeAMemroyPool) | 手搓简易内存池，配套 B 站视频教程 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Project_MakeAMemroyPool?style=social) |
 | [Tutorial_cpp_SimpleIniParser](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_cpp_SimpleIniParser) | C++ 工程化起步 — 手搓最简单的 INI 解析器 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_cpp_SimpleIniParser?style=social) |
 
-> 更多仓库 → [组织主页](https://github.com/Awesome-Embedded-Learning-Studio?tab=repositories)
+> 更多仓库 → [核心仓库分发地](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
 
 ---
 
