@@ -49,6 +49,17 @@
 
 ---
 
+## 有任何疑问？
+
+- 如果您对下面某一个具体项目存在疑问，欢迎前往对应项目的Issue下，提出任何您想问的问题，多简单都可以！
+- 或者到👉 [Issues](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded/issues) 下进行提问！
+
+## 有想要找我们聊的？
+
+- 讨论交流请到 [Discussions](https://github.com/orgs/Awesome-Embedded-Learning-Studio/discussions)，现在已经开放，您可以聊任何相关的，问任何感兴趣的内容！
+
+---
+
 ## 🗺️ Roadmap
 
 - ✅ **Tutorial_AwesomeModernCPP** — 现代 C++ 教程（主体完成）
@@ -87,9 +98,6 @@
 2. **新建分支** 并进行修改
 3. 提交 **Pull Request** 并描述改动内容
 4. 等待 **Review**，合并后即成为贡献者
-
-- 提问 / 建议请开 [Issues](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded/issues)
-- 讨论交流请到 [Discussions](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded/discussions)
 
 ---
 
