@@ -42,8 +42,21 @@
 | [Tutorial_AwesomeModernCPP](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeModernCPP) | 现代 C++ 嵌入式完整教程（C++11–C++23） | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeModernCPP?style=social) |
 | [imx-forge](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge) | i.MX6ULL 芯片 uboot / kernel / rootfs 补丁模板 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/imx-forge?style=social) |
 | [Awesome-Embedded](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded) | 主导航仓库 — 资源聚合入口 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Awesome-Embedded?style=social) |
+| [Tutorial_AwesomeQt](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt) | Qt 学习教程 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt?style=social) |
 | [Project_MakeAMemroyPool](https://github.com/Awesome-Embedded-Learning-Studio/Project_MakeAMemroyPool) | 手搓简易内存池，配套 B 站视频教程 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Project_MakeAMemroyPool?style=social) |
 | [Tutorial_cpp_SimpleIniParser](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_cpp_SimpleIniParser) | C++ 工程化起步 — 手搓最简单的 INI 解析器 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_cpp_SimpleIniParser?style=social) |
+| [BareMetal-Drivers](https://github.com/Awesome-Embedded-Learning-Studio/BareMetal-Drivers) | 所有单片机项目的系列基础库 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/BareMetal-Drivers?style=social) |
+| [CFDesktop](https://github.com/Awesome-Embedded-Learning-Studio/CFDesktop) | 可部署在任何支持 Qt 的嵌入式设备上的桌面环境 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/CFDesktop?style=social) |
+| [rk-forge](https://github.com/Awesome-Embedded-Learning-Studio/rk-forge) | RK 系列芯片 uboot / kernel / rootfs 补丁模板 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/rk-forge?style=social) |
+| [CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) | 用现代 C++23 编写的极简 BusyBox 替代品 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/CFBox?style=social) |
+| [ST-Forge](https://github.com/Awesome-Embedded-Learning-Studio/ST-Forge) | STM32 原生 HAL + CMake 驱动与示例（无 IDE 依赖） | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/ST-Forge?style=social) |
+| [qt-compile-pipeline](https://github.com/Awesome-Embedded-Learning-Studio/qt-compile-pipeline) | 自动化 Qt6 交叉编译管道，支持 ARM/ARM64 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/qt-compile-pipeline?style=social) |
+| [PenguinLab](https://github.com/Awesome-Embedded-Learning-Studio/PenguinLab) | 嵌入式 Linux 与桌面 Linux 内核实践实验室 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/PenguinLab?style=social) |
+| [Project_MicroWatch](https://github.com/Awesome-Embedded-Learning-Studio/Project_MicroWatch) | 面向资源受限平台的智能手表系统项目 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Project_MicroWatch?style=social) |
+| [Tutorial_STM32_BareMetal](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_STM32_BareMetal) | STM32 裸机开发教程（F103 / F407） | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_STM32_BareMetal?style=social) |
+| [Project_CXXBaseComponents](https://github.com/Awesome-Embedded-Learning-Studio/Project_CXXBaseComponents) | C++ 基础组件项目，配套 B 站视频 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Project_CXXBaseComponents?style=social) |
+| [Tutorial_FreeRTOS](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_FreeRTOS) | FreeRTOS 开源教程系列 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_FreeRTOS?style=social) |
+| [Tutorial_EmbeddedCommonTools](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_EmbeddedCommonTools) | 嵌入式开发通用工具教程 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_EmbeddedCommonTools?style=social) |
 
 > 更多仓库 → [核心仓库分发地](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
 
@@ -63,8 +76,13 @@
 ## 🗺️ Roadmap
 
 - ✅ **Tutorial_AwesomeModernCPP** — 现代 C++ 教程（主体完成）
+- ✅ **Tutorial_AwesomeQt** — Qt 学习教程
+- 🚧 **CFDesktop** — 可部署于嵌入式设备的 Qt 桌面环境（正在开发）
 - 🚧 **STM32 C++ 实战指南** — 基于现代 C++ 的 STM32 开发实战
+- 🚧 **CFBox** — 用现代 C++23 编写的 BusyBox 替代品
+- 🚧 **PenguinLab** — 嵌入式 Linux 与桌面 Linux 内核实践实验室
 - 🚧 **上位机现代 C++ 特性体验** — 桌面端 C++ 新特性学习项目
+- 🚧 **qt-compile-pipeline** — 自动化 Qt6 交叉编译管道
 - 📌 **Docker / Renode 模拟器支持** — 无硬件也能学嵌入式
 
 ---
