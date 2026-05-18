@@ -56,9 +56,7 @@
 | [Project_CXXBaseComponents](https://github.com/Awesome-Embedded-Learning-Studio/Project_CXXBaseComponents) | C++ 基础组件项目，配套 B 站视频 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Project_CXXBaseComponents?style=social) |
 | [Tutorial_FreeRTOS](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_FreeRTOS) | FreeRTOS 开源教程系列 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_FreeRTOS?style=social) |
 | [Tutorial_EmbeddedCommonTools](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_EmbeddedCommonTools) | 嵌入式开发通用工具教程 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/Tutorial_EmbeddedCommonTools?style=social) |
-| [bareline](https://github.com/Awesome-Embedded-Learning-Studio/bareline) | 现代 CLI 交互框架，面向嵌入式设备与桌面 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/bareline?style=social) |
 | [edgecv](https://github.com/Awesome-Embedded-Learning-Studio/edgecv) | 现代 Header-Only C++ OpenCV 封装，桌面与嵌入式 Linux | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/edgecv?style=social) |
-| [miniwget](https://github.com/Awesome-Embedded-Learning-Studio/miniwget) | 现代 C++ 迷你 wget，配套 B 站教程 | ![stars](https://img.shields.io/github/stars/Awesome-Embedded-Learning-Studio/miniwget?style=social) |
 
 > 更多仓库 → [核心仓库分发地](https://github.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded)
 
