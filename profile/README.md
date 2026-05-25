@@ -55,26 +55,44 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 💻 **C++ 工程化** · 现代 C++ 全栈教程（🚀 活跃 🚀）
-🐧 **Embedded Linux** · BSP、内核适配、动手实验（🚀 从i.mx6ull到Linux专题 🚀）
-🔩 **MCU / FreeRTOS** · HAL 驱动、裸机库、RTOS 教程（🚀 持续优化开发 🚀）
-🎨 **Qt / GUI** · Qt 6 教程到嵌入式桌面框架（🚀 活跃 🚀）
 
-</div>
+</td>
+<td width="50%">
+
+🐧 **Embedded Linux** · BSP、内核适配、动手实验（🚀 从i.mx6ull到Linux专题 🚀）
+
+</td>
+</tr>
+<tr>
+<td>
+
+🔩 **MCU / FreeRTOS** · HAL 驱动、裸机库、RTOS 教程（🚀 持续优化开发 🚀）
+
+</td>
+<td>
+
+🎨 **Qt / GUI** · Qt 6 教程到嵌入式桌面框架（🚀 持续开发中 🚀）
+
+</td>
+</tr>
+</table>
 
 ---
 
 <table align="center">
   <tr>
     <td align="center">
-      <img width="80" height="80" src="https://github.com/HNHKHNH.png?size=80" /><br />
+      <img width="160" height="160" src="https://github.com/HNHKHNH.png?size=160" /><br />
       <a href="https://github.com/HNHKHNH"><strong>HNHKHNH</strong></a><br />
       <sub>硬件大牛，PCB 工程师</sub>
     </td>
     <td align="center">
-      <img width="80" height="80" src="https://github.com/Charliechen114514.png?size=80" /><br />
+      <img width="160" height="160" src="https://github.com/Charliechen114514.png?size=160" /><br />
       <a href="https://github.com/Charliechen114514"><strong>Charliechen114514</strong></a><br />
       <sub>一般路过的普通 C/C++ 程序员</sub>
     </td>
