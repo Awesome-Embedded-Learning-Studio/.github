@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100" src="https://raw.githubusercontent.com/Awesome-Embedded-Learning-Studio/Awesome-Embedded/main/assets/Awesome-Embedded.png" alt="logo" />
+<img width="100" src="Awesome-Embedded.png" alt="logo" />
 
 <br />
 
