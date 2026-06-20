@@ -41,7 +41,7 @@
 | 🔩 **MCU / RTOS** | STM32、裸机驱动、FreeRTOS 与 Cortex-M 模拟实验 | [ST-Forge](https://github.com/Awesome-Embedded-Learning-Studio/ST-Forge) · [BareMetal-Drivers](https://github.com/Awesome-Embedded-Learning-Studio/BareMetal-Drivers)<br />[micro-forge](https://github.com/Awesome-Embedded-Learning-Studio/micro-forge) |
 | 🎨 **Qt / GUI** | Qt 6 教程、桌面框架与 ARM 交叉编译流水线 | [Tutorial_AwesomeQt](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt)<br />[CFDesktop](https://github.com/Awesome-Embedded-Learning-Studio/CFDesktop) · [qt-compile-pipeline](https://github.com/Awesome-Embedded-Learning-Studio/qt-compile-pipeline) |
 
-完整项目矩阵、状态和学习路径请看：[文档站 · 项目一览](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/document/projects/)。
+完整项目矩阵、状态和学习路径请看：[文档站 · 项目一览](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/projects/)。
 
 ## 🤝 协作方式
 
