@@ -46,8 +46,8 @@
 ## 🤝 协作方式
 
 - 有问题、想法或路线建议：到 [Discussions](https://github.com/Awesome-Embedded-Learning-Studio/community/discussions) 发帖。
-- 想参与仓库建设：先看 [贡献指南](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/document/contributing/)。
-- 想了解接下来会做什么：查看 [Roadmap](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/document/roadmap/)。
+- 想参与仓库建设：先看 [贡献指南](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/contributing/)。
+- 想了解接下来会做什么：查看 [Roadmap](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/roadmap/)。
 
 ## 🛠️ 维护者
 
