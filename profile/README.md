@@ -29,7 +29,7 @@
 | 🎨 学 Qt / 嵌入式 GUI | [Tutorial_AwesomeQt](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt) · [CFDesktop](https://github.com/Awesome-Embedded-Learning-Studio/CFDesktop)<br /><sub>教程、桌面框架与产品化实验</sub> |
 | 🐧 上手 Embedded Linux | [imx-forge](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge) · [PenguinLab](https://github.com/Awesome-Embedded-Learning-Studio/PenguinLab)<br /><sub>BSP、QEMU、内核调试与开发环境</sub> |
 | 🔩 做 MCU 裸机项目 | [ST-Forge](https://github.com/Awesome-Embedded-Learning-Studio/ST-Forge) · [BareMetal-Drivers](https://github.com/Awesome-Embedded-Learning-Studio/BareMetal-Drivers)<br /><sub>STM32、驱动框架与外设实验</sub> |
-| 🧠 研究系统软件 | [CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) · [Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux)<br /><sub>Unix 工具集与 x86_64 OS 实验</sub> |
+| 🧠 研究系统软件 | [CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) · [Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux) · [Cinux-Book](https://github.com/Awesome-Embedded-Learning-Studio/Cinux-Book)<br /><sub>Unix 工具集、x86_64 OS 实验与配套教程</sub> |
 
 ## 🧭 项目主线
 
@@ -37,7 +37,7 @@
 | --- | --- | --- |
 | 💻 **Modern C++** | 语言教程、基础组件、系统工具与边缘计算实验 | [Tutorial_AwesomeModernCPP](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeModernCPP)<br />[CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) · [edgecv](https://github.com/Awesome-Embedded-Learning-Studio/edgecv) |
 | 🐧 **Embedded Linux** | BSP、交叉编译、QEMU、内核调试与开发环境 | [imx-forge](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge) · [rk-forge](https://github.com/Awesome-Embedded-Learning-Studio/rk-forge)<br />[PenguinLab](https://github.com/Awesome-Embedded-Learning-Studio/PenguinLab) |
-| 🧠 **Linux / System Programming** | 从 userspace 工具到 x86_64 OS 实验 | [Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux)<br />[CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) |
+| 🧠 **Linux / System Programming** | 从 userspace 工具到 x86_64 OS 实验 | [Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux) · [Cinux-Book](https://github.com/Awesome-Embedded-Learning-Studio/Cinux-Book)<br />[CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) |
 | 🔩 **MCU / RTOS** | STM32、裸机驱动、FreeRTOS 与 Cortex-M 模拟实验 | [ST-Forge](https://github.com/Awesome-Embedded-Learning-Studio/ST-Forge) · [BareMetal-Drivers](https://github.com/Awesome-Embedded-Learning-Studio/BareMetal-Drivers)<br />[micro-forge](https://github.com/Awesome-Embedded-Learning-Studio/micro-forge) |
 | 🎨 **Qt / GUI** | Qt 6 教程、桌面框架与 ARM 交叉编译流水线 | [Tutorial_AwesomeQt](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeQt)<br />[CFDesktop](https://github.com/Awesome-Embedded-Learning-Studio/CFDesktop) · [qt-compile-pipeline](https://github.com/Awesome-Embedded-Learning-Studio/qt-compile-pipeline) |
 
@@ -51,7 +51,7 @@
 
 ## 🛠️ 维护者
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/HNHKHNH">
@@ -76,4 +76,7 @@
 
 <div align="center">
   <sub>Released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</sub>
+  <br />
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Awesome-Embedded-Learning-Studio.Awesome-Embedded-Learning-Studio" alt="visitor badge" />
 </div>
