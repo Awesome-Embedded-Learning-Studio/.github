@@ -1,9 +1,8 @@
 <div align="center">
-  <img width="96" src="Awesome-Embedded.png" alt="Awesome-Embedded logo" />
-
-  <h1>Awesome-Embedded-Learning-Studio</h1>
-
-  <p><strong>面向中文学习者的 C/C++ 系统软件与嵌入式工程实践开源工作室</strong></p>
+  <img src="AELS-Header-Logo-Light.png#gh-light-mode-only" alt="Awesome Embedded Learning Studio" width="760" />
+  <img width="64" src="Awesome-Embedded.png" alt="Awesome-Embedded logo" /> 
+  
+  <p><strong>Awesome-Embedded-Learning-Studio：面向所有学习者的 C/C++ 系统软件与嵌入式工程实践开源工作室</strong></p>
   <p><em>Keep it small, make it fun ✨</em></p>
 
   <p>
