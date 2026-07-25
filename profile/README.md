@@ -73,6 +73,14 @@
       <br />
       <sub>C / C++ / 系统软件</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/Leon19960120">
+        <img width="72" src="https://github.com/Leon19960120.png?size=144" alt="Leon19960120" /><br />
+        <strong>Leon19960120</strong>
+      </a>
+      <br />
+      <sub>文档审校 / 工程勘误</sub>
+    </td>
   </tr>
 </table>
 
