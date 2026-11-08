@@ -60,7 +60,7 @@
 
 简单的说，如果您甚至只能让您的 Agent 替代您做任何 Linux 上的操作而完全看不懂他在做什么。这些项目是我们正在忙于开发的！
 
-[EmbedBox（仍然在开发ing）](https://github.com/Awesome-Embedded-Learning-Studio/EmbedBox) 从终端、Git、编译和调试这些基本操作开始！上路先回开车！
+- [EmbedBox（仍然在开发ing）](https://github.com/Awesome-Embedded-Learning-Studio/EmbedBox) 从终端、Git、编译和调试这些基本操作开始！上路先回开车！
 
 如果您对语言基础比较困惑。截至到目前，C和C++仍然是嵌入式开发的首选。您可以到这里来~
 
@@ -69,11 +69,11 @@
 
 如果上述都不构成你学习的难题，并且第一次学习板级 Linux。可以从：
 
-[imx-forge（仍然正在优化ing!）](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge) 开始；
+- [imx-forge（仍然正在优化ing!）](https://github.com/Awesome-Embedded-Learning-Studio/imx-forge) 开始；
 
 已有 BSP 经验、目标是 Rockchip 平台，可以直接进入：
 
-[rk-forge](https://github.com/Awesome-Embedded-Learning-Studio/rk-forge)。
+- [rk-forge](https://github.com/Awesome-Embedded-Learning-Studio/rk-forge)。
 
 > 单片机有st-forge，但是笔者精力有限，更新较慢哦~
 
