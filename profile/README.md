@@ -44,7 +44,7 @@
 
 > PS: LLM 部分参与了一些教程内容和代码中。众所周知难免有所疏忽。
 > 
-> 兄弟们都是用爱放电。发现问题，欢迎 Issue At 我们，会及时响应修复！
+> 兄弟们都是用爱发电。发现问题，欢迎 Issue At 我们，会及时响应修复！
 
 ## 这里是什么 / OK so what's this bro
 
@@ -77,7 +77,7 @@
 
 > 单片机有st-forge，但是笔者精力有限，更新较慢哦~
 
-## 看看项目
+## 看看项目 / Wander Around Projects And Tools
 
 哈？都不喜欢？对操作系统感兴趣？正巧来看看由 C++23 编写、探索 Linux 用户态兼容的 [Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux)！从启动代码一路写到进程、文件系统和图形桌面，最后还能在自己的系统里重新编译内核。想知道这一路是怎么走过来的？[Cinux-Book](https://github.com/Awesome-Embedded-Learning-Studio/Cinux-Book) 里有笔者的一些教程记录，带着您的 QEMU 一起来玩！
 
@@ -91,13 +91,13 @@
 
 完整的项目介绍和当前进展放在[仓库目录](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/projects/)。想知道这些内容如何衔接，可以再看[学习关系](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/roadmap/)，按自己的基础选择和回补。
 
-## 一起玩
+## 一起玩 / OK have fun
 
 - 有问题、想法、路线建议：来 [Discussions](https://github.com/orgs/Awesome-Embedded-Learning-Studio/discussions) 开一贴，或者进 QQ 群。
 - 想动手改点什么：先读[贡献指南](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/contributing/)，仓库里标了 good first issue 的都可以直接认领。
 - 想知道接下来做什么：看 [Roadmap](https://awesome-embedded-learning-studio.github.io/Awesome-Embedded/roadmap/)。
 
-## 读到这里了！
+## 读到这里了！ / Wow, EasterEgg
 
 如果里面的项目对您有所帮助，欢迎⭐⭐我们， 随意 Fork 爆改。玩的开心~
 
